@@ -20,13 +20,6 @@ A Python desktop app that prepares your **legally owned** music files for [Spoti
 
 ---
 
-## Screenshot
-
-> _Add a screenshot here once the app is running: place it at `docs/screenshot.png` and uncomment the line below._
-> <!-- ![Screenshot](docs/screenshot.png) -->
-
----
-
 ## Requirements
 
 | Requirement | Version |
